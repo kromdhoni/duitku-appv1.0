@@ -1,4 +1,4 @@
-# duitku-appnew
+# duitku-appv1.0
  DuitKu — Personal Finance Manager
 DuitKu adalah aplikasi manajemen keuangan pribadi berbasis web yang dirancang dengan antarmuka modern, intuitif, dan mobile-first. Aplikasi ini membantu Anda memantau arus kas, mengelola anggaran bulanan, dan melacak pertumbuhan aset secara real-time.
 ✨ Fitur Utama
